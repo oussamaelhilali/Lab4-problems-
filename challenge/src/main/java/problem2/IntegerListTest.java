@@ -40,7 +40,8 @@ public class IntegerListTest
             case 2:
                 list.print();
                 break;
-            default:
+
+                default:
                 System.out.println("Sorry, invalid choice");
         }
     }
